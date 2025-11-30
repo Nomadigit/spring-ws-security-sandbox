@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package nomadigit.spring.ws.security.sandbox.service;
 
-import com.example.demo.model.CreateUserRequest;
-import com.example.demo.model.User;
+import nomadigit.spring.ws.security.sandbox.model.CreateUserRequest;
+import nomadigit.spring.ws.security.sandbox.model.User;
 import org.springframework.stereotype.Service;
 import org.springframework.ws.client.core.WebServiceTemplate;
 

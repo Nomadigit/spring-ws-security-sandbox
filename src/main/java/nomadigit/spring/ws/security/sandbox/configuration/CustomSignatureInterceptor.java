@@ -1,6 +1,6 @@
-package com.example.demo.configuration;
+package nomadigit.spring.ws.security.sandbox.configuration;
 
-import com.example.demo.util.CustomSignatureSoapMessageModifier;
+import nomadigit.spring.ws.security.sandbox.util.CustomSignatureSoapMessageModifier;
 import lombok.SneakyThrows;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBooleanProperty;

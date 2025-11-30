@@ -1,4 +1,4 @@
-package com.example.demo.util;
+package nomadigit.spring.ws.security.sandbox.util;
 
 import lombok.SneakyThrows;
 import org.apache.wss4j.dom.message.WSSecHeader;

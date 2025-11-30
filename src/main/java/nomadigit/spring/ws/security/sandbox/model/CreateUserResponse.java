@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package nomadigit.spring.ws.security.sandbox.model;
 
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;

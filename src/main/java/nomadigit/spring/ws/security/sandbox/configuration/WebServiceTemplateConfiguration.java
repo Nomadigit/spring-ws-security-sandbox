@@ -1,6 +1,6 @@
-package com.example.demo.configuration;
+package nomadigit.spring.ws.security.sandbox.configuration;
 
-import com.example.demo.model.ObjectFactory;
+import nomadigit.spring.ws.security.sandbox.model.ObjectFactory;
 import jakarta.annotation.PostConstruct;
 import org.apache.wss4j.common.ConfigurationConstants;
 import org.apache.wss4j.common.crypto.Crypto;

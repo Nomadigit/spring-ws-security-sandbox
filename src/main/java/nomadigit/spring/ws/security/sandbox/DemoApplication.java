@@ -1,6 +1,6 @@
-package com.example.demo;
+package nomadigit.spring.ws.security.sandbox;
 
-import com.example.demo.service.WSCallService;
+import nomadigit.spring.ws.security.sandbox.service.WSCallService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
