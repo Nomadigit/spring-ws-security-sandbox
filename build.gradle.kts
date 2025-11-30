@@ -22,6 +22,8 @@ repositories {
 }
 
 dependencies {
+    annotationProcessor("org.projectlombok:lombok")
+    compileOnly("org.projectlombok:lombok")
 	implementation("org.springframework.boot:spring-boot-starter-webservices")
     implementation("org.springframework.ws:spring-ws-security")
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
